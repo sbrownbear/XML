@@ -1,1 +1,10 @@
-
+<xml>
+	<ID>"1"</ID>
+	<environment>"_"</environment>
+	<description>"_"</description>
+	<severity>"_"</severity>
+	<priority>"_"</priority>
+	<STR>"_"</STR>
+	<actual_result>"_"</actual_result>
+	<expexted_result>"_"</expected_result>
+</xml>
