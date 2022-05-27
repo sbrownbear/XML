@@ -1,84 +1,78 @@
  1. Создать внешний репозиторий c названием XML.
 
-New
+`New`
 
  2. Клонировать репозиторий XML на локальный компьютер.
 
-git clone 
+`git clone https://github.com/sbrownbear/XML.git`
 
  3. Внутри локального XML создать файл “new.xml”.
 
-touch new.xml
+`touch new.xml`
 
  4. Добавить файл под гит.
 
-git add new.xml
+`git add new.xml`
 
  5. Закоммитить файл.
 
-git commit -m 'creat file'
+`git commit -m 'creat file'`
 
  6. Отправить файл на внешний GitHub репозиторий.
 
-git push
+`git push`
 
  7. Отредактировать содержание файла “new.xml” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате XML.
 
-vim new.xml
-
-i 
-
-esc
-
-:wq
+`vim new.xml`
+`i`
+`esc`
+`:wq`
 
  8. Отправить изменения на внешний репозиторий.
 
-git commit -am 'modified'
-
-git push
+`git commit -am 'modified'`
+`git push`
 
  9. Создать файл preferences.xml
 
-touch preferences.xml
+`touch preferences.xml`
 
  10. В файл preferences.xml добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате XML.
 
-vim preferences.xml
-
-i 
-
-esc
-
-:wq
+`vim preferences.xml`
+`i`
+`esc`
+`:wq`
 
  11. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML
-touch sklls.xml
+
+`touch sklls.xml`
 
  12. Сделать коммит в одну строку.
 
-git add . git commit -m 'creat file'
+`git add . git commit -m 'creat file'`
 
  13. Отправить сразу 2 файла на внешний репозиторий.
 
-git push
+`git push`
 
  14. На веб интерфейсе создать файл bug_report.xml.
 
-creat new file
+`creat new file`
 
  15. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 
-commit new file
+`commit new file`
 
  16. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.
 
-edit file 
+`edit file`
 
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 
-commit changes
+`commit changes`
 
  18. Синхронизировать внешний и локальный репозиторий XML
 
-git pull
+`git pull`
