@@ -1,12 +1,17 @@
 <xml>
-	<p1>"Terminal linux"</p1>
-        <p2>"JavaSript (основы)"</p2>
-        <p3>"Postman"</p3>
-	<p4>"DevTools"</p4>
-	<p5>"Android Studio"</p5>
-	<p6>"SQL (Select, From, Where, Join)"</p6>
-        <p7>"Jmeter"</p7>
+	<p1>"Basic theory (what's testing, documentation, bug reports, methods, areas of testing, etc.)"</p1>
+    <p2>"Client-server archtecture"</p2>
+    <p3>"HTTP (methods, response codes)"</p3>
+	<p4>"JSON, XML (their structure)"</p4>
+	<p5>"Mobile testing"</p5>
+	<p6>"Android Studio"</p6>
+    <p7>"DevTools"</p7>
 	<p8>"Jira"</p8>
-        <p9>"Fiddler"</p9>
+    <p9>"Fiddler"</p9>
 	<p10>"Git/GitHub"</p10>
+	<p11>"SQL"</p11>
+	<p12>"JavaSript (Basic)"</p12>
+	<p13>"Postman"</p13>
+	<p14>"Jmeter"</p14>
+	<p15>"Terminal linux"</p15>
 </xml>
