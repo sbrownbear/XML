@@ -18,8 +18,8 @@
 `git commit -am 'modified'`;
 `git push` - Отправить изменения на внешний репозиторий.
 
-`git commit -am 'modified'`
-`git push`
+`git commit -am 'modified'`;
+`git push`;
 `touch preferences.xml`- Создать файл preferences.xml
 
 `vim preferences.xml`;
@@ -29,7 +29,7 @@
 
 `touch sklls.xml` - Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML
 
-`git add . git commit -m 'creat file'` - Сделать коммит в одну строку.
+`git add .`; `git commit -m 'creat file'` - Сделать коммит в одну строку.
 
 `git push` - Отправить сразу 2 файла на внешний репозиторий.
 
